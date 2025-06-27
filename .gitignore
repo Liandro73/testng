@@ -15,3 +15,9 @@ target/
 
 ### Mac OS ###
 .DS_Store
+
+### Files ###
+*.jpg
+*.png
+*.gif
+*.pdf

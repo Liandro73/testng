@@ -3,11 +3,7 @@
 <suite name="Test Automation University Suite">
     <test name="Configuration Annotation Test">
         <classes>
-            <class name="com.liandro.ConfigurationAnnotations">
-                <methods>
-                    <include name="searchCustomer"/>
-                    <include name="searchProduct"/>
-                </methods>
+            <class name="com.liandro.DataDrivenTesting">
             </class>
         </classes>
     </test>
